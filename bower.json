@@ -1,0 +1,15 @@
+{
+  "name": "angular-generic-mask",
+  "authors": ["Yago Lopes <yagolopeslazaro@gmail.com>"],
+  "description": "generic mask for AngularJS",
+  "main": "",
+  "license": "MIT",
+  "homepage": "http://localhost",
+  "ignore": ["**/.*", "node_modules", "bower_components", "test", "tests"],
+  "dependencies": {
+    "angular": "1.2.16"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.2.16"
+  }
+}
